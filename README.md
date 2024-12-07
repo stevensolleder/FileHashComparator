@@ -10,4 +10,4 @@ It enables users to generate the hash of a file or to check if the hash of a pro
 <br>
 
 ## Get in contact
-Feel free to get in contact and share your experience with ShoppingListGenerator. Bug reports are also very appreciated.
+Feel free to get in contact and share your experience with FileHashComparator. Bug reports are also very appreciated.
